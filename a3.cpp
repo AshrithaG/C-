@@ -9,7 +9,7 @@ int main()
  
     
     productOfTwoNumbers = 5*6;  
-    cout << "Product = " << productOfTwoNumbers;    
+    cout << "Product = " << productOfTwoNumbers;<<endl;
     
     return 0;
 }
